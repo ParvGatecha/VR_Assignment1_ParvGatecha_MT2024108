@@ -6,7 +6,7 @@
 1. Clone the Repository:
    Clone this repository to your local machine.
 
-   git clone https://github.com/ParvGatecha/coin-detection.git
+   git clone https://github.com/ParvGatecha/VR_Assignment1_ParvGatecha_MT2024108.git
 
 2. Install Dependencies:
    Ensure you have Python installed. Then, install the required dependencies using pip:
